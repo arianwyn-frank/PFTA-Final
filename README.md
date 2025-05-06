@@ -1,5 +1,5 @@
 Bible Translation Comparison
-Created by Mert, Ari, and Artorius, this project explores and compares textual variations across four Bible translations: KJV, NASB, NET, and TLB
+Created by Arianwyn, Mert, and Artorius, this project explores and compares textual variations across four Bible translations: KJV, NASB, NET, and TLB
 
 Project Goals
 The aim of this project is to:
